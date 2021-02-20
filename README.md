@@ -20,4 +20,8 @@
 4. Functions
   - string function
   - int function
+
+5. Array Slice
+  - declaring array and assigning values by using shorthand method
+  - using different array methods like len() and substring[a:b]
   
