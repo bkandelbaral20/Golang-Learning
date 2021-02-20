@@ -1,20 +1,6 @@
 package main
 import "fmt"
 
-/*
-Main types are :
-string
-bool
-int
-int int8 int16 int32 int64
-uint uint8 uint16 uint32 uint64 uintptr (non-negative number)
-byte - alias of uint8
-rune - alias of uint32
-float32 float 64
-complex64 complex28( really large numbers)
-
- */
-
 func main() {
 	//  using var
 
