@@ -14,4 +14,7 @@
 3. Packages
   - math 
   - creating own packages like strutil(string utility using reverse)
+4. Functions
+  - string function
+  - int function
   
