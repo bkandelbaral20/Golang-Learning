@@ -30,8 +30,12 @@
   - else if 
   - Switch
 
-7. maps
+7. map
  - declaring and assigning values
  - deleting values
 
 8. range
+ - Looping ids using range 
+ - Adding ids 
+ - Using range with map
+
