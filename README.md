@@ -1,4 +1,4 @@
-# Golang-Learning 
+# Golang-Fundamentals-Learning 
 1. Printing Hello World
    
 2. Variables and main Types
@@ -25,3 +25,7 @@
   - declaring array and assigning values by using shorthand method
   - using different array methods like len() and substring[a:b]
   
+6. Conditionals Statements
+  - if - else 
+  - else if 
+  - Switch

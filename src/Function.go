@@ -1,4 +1,5 @@
 package main
+
 import "fmt"
 
 //creating functions
@@ -9,13 +10,11 @@ func greeting(name string) string {
 }
 
 // function that will takes 2 parameter num1 and num2 type of int and also return int
-func sumOfTwo(num1  ,  num2 int) int  {
+func sumOfTwo(num1, num2 int) int {
 	return num1 + num2
 }
 
 func main() {
 	fmt.Println(greeting("Binjita"))
-	fmt.Println(sumOfTwo(2,3))
+	fmt.Println(sumOfTwo(2, 3))
 }
-
-
