@@ -29,3 +29,9 @@
   - if - else 
   - else if 
   - Switch
+
+7. maps
+ - declaring and assigning values
+ - deleting values
+
+8. range
