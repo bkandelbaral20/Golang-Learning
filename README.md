@@ -39,3 +39,5 @@
  - Adding ids 
  - Using range with map
 
+9. pointer(*)
+10.
