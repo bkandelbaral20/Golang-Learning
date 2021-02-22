@@ -40,4 +40,6 @@
  - Using range with map
 
 9. pointer(*)
-10.
+10. structs
+ - created variables 
+ - created method(value receiver and pointer receiver)
